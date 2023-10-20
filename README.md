@@ -1,4 +1,4 @@
-# fullcoll csci club oop workshop
+# workshop topics
 ## abstraction, polymorphism
 -interfaces  
 -inheritance  
