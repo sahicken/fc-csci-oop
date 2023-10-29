@@ -9,6 +9,7 @@ from typing import List
 from enum import Enum
 
 # seems like a suitable data structure for encapsulation
+# this is a simple example of the MEDIATOR pattern
 class Region(Enum):
     NORTHEAST = 1
     MIDWEST = 2
