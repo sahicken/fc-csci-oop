@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-# ^^ the shebang allows direct execution
+# the shebang above allows direct execution
+# HOWEVER you MUST give executable permission
+# this can be done with with "chmod +x file"
 
 from __future__ import annotations
 from abc import ABC, abstractmethod
